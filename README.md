@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jharod Saude Cuba Rivas 😎✨
 
-![logo]([https://github.com/TuUsuario/TuRepositorio/assets/logo.png](https://private-user-images.githubusercontent.com/138187313/372980642-84d59775-5990-4443-bc40-4ad48f43d4be.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc4OTI2MjMsIm5iZiI6MTcyNzg5MjMyMywicGF0aCI6Ii8xMzgxODczMTMvMzcyOTgwNjQyLTg0ZDU5Nzc1LTU5OTAtNDQ0My1iYzQwLTRhZDQ4ZjQzZDRiZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAwMlQxODA1MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ODg2YTQyODg5MzAyOTYyZGE2YzI4ODdlNDNiYjg2YTdhNWYzYzVkYTE5NzY1ZmZhMTEyYTQxMzY5NzZlNTVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.f1M129sHYW8jfYa7e_8cSgAxFuRDVRIv-YQEKD9o7Lo))
+![jharod2](https://github.com/user-attachments/assets/917d6070-2a22-46c6-a822-3e4d8d44814a)
 
 Soy un joven apasionado de 23 años, estudiante de Ingeniería de Sistemas y Computación, además de egresado en Ciencias de la Comunicación. Mi vida gira en torno a la programación, la tecnología, y un gran amor por el arte de la comunicación. 
 
